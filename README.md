@@ -30,7 +30,7 @@ A fully responsive, single-page personal portfolio website designed to showcase 
 
 🚀 How to Run Locally
  * Clone the repository:
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/abhranilsingharoy-cloud/Portfolio.Abhranil)
 
  * Navigate to the project directory:
    cd YOUR-REPO-NAME
