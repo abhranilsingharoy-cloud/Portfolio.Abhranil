@@ -33,7 +33,7 @@ A fully responsive, single-page personal portfolio website designed to showcase 
    git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/abhranilsingharoy-cloud/Portfolio.Abhranil)
 
  * Navigate to the project directory:
-   cd YOUR-REPO-NAME
+   cd Portfolio.Abhranil
 
  * Open the project:
    Simply double-click index.html to open it in your default web browser.
